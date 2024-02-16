@@ -8,7 +8,7 @@ const Info = ({ navigation }) => {
       style={styles.mainContainer}
       onPress={() => navigation.goBack()}
     >
-      <Text>Info{"\n"}Go back to Home</Text>
+      <Text>Info{"\n"}Go back to Hom</Text>
     </TouchableOpacity>
   );
 };
