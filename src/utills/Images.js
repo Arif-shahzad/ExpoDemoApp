@@ -1,0 +1,14 @@
+export const AgentsPic1 = require("../../assets/Home/agentPic1.png");
+export const AreaIcon = require("../../assets/Home/areaIcon.png");
+export const ArrowIcon = require("../../assets/Home/arrowIcon.png");
+export const BedIcon = require("../../assets/Home/bedIcon.png");
+export const LogoHome = require("../../assets/Home/logoHome.png");
+export const SeacrhIcon = require("../../assets/Home/searchIcon.png");
+export const LocationIcon = require("../../assets/Home/locationIcon.png");
+export const VerticalLine = require("../../assets/Home/verticalLine.png");
+export const HeartIcon = require("../../assets/Home/heartIcon.png");
+export const HeartIcon2 = require("../../assets/Home/heartIcon2.png");
+export const Location = require("../../assets/Home/location.png");
+export const WashroomIcon = require("../../assets/Home/washroomIcon.png");
+export const HeaderLocation = require("../../assets/Home/HeaderLocation.png");
+export const ApartmentStarIcon1 = require("../../assets/Home/apartmentStarIcon1.png");
